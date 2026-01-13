@@ -1,0 +1,12 @@
+<Project>
+  <PropertyGroup>
+    <!-- Logging -->
+    <SerilogVersion>4.3.0</SerilogVersion>
+    <SerilogSinksConsoleVersion>6.1.1</SerilogSinksConsoleVersion>
+    <SerilogSinksFileVersion>7.0.0</SerilogSinksFileVersion>
+    <NLogVersion>6.0.7</NLogVersion>
+    
+    <!-- OpenAPI -->
+    <OpenApiVersion>10.0.1</OpenApiVersion>
+  </PropertyGroup>
+</Project>
